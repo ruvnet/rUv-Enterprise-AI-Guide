@@ -1,7 +1,8 @@
 
 # The rUv Enterprise AI Guide
 ![The rUv Enterprise AI Guide](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/assets/intro.png?raw=true)
-[Download PDF Version ](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/Strategic%20Enterprise%20AI%20Guide%20%20-%20v01.pdf)
+- [Download PDF Version ](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/Strategic%20Enterprise%20AI%20Guide%20%20-%20v01.pdf)
+- [ChatGPT GPT](https://chatgpt.com/g/g-XcDt6yTZa-ruv-enterprise-ai-consulting-bot)
 
 ## Introduction
 
