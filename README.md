@@ -1,5 +1,7 @@
 # The rUv Enterprise AI Guide
 
+[Download PDF Version ](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/Strategic%20Enterprise%20AI%20Guide%20%20-%20v01.pdf)
+
 ## Introduction
 
 The rUv Enterprise AI Guide is a comprehensive resource designed to assist Chief Information Officers (CIOs) and technology leaders in navigating the complexities of AI integration within large enterprises. Authored by Reuven Cohen, Brenda Cohen, and OpenAI, this guide provides a strategic framework for deploying AI technologies effectively to enhance operational efficiency, foster innovation, and gain a competitive edge in the market.
