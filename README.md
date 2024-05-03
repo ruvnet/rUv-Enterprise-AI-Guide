@@ -1,5 +1,6 @@
-# The rUv Enterprise AI Guide
 
+# The rUv Enterprise AI Guide
+![The rUv Enterprise AI Guide](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/assets/intro.png?raw=true)
 [Download PDF Version ](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/Strategic%20Enterprise%20AI%20Guide%20%20-%20v01.pdf)
 
 ## Introduction
